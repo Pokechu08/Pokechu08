@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo. My name is Elijah Downing. I'm a first year Computer Science student at WSU.
 
 <!--
 **Pokechu08/Pokechu08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
